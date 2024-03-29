@@ -41,7 +41,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: Jim Brave Stark" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "https://github.com/MRFGsn/" //ur github or insta name
 //________________________________________________________________________________________________________
@@ -52,7 +52,7 @@ global.location = process.env.GL_INFO || "Sri lanka, Colombo, Gampola" //ur loca
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'MRFG-INFINITE' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '94765476552' //ur owner number
+global.ownernumber = process.env.SUDO || '94776860011' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Mr. Snyder' //ur owner name
 //________________________________________________________________________________________________________
@@ -68,22 +68,22 @@ global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLI
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝗦𝗻𝘆𝗱𝗲𝗿"
+global.author = process.env.AUTHER_NAME || "𝗠𝗮𝗱𝗲 𝗳𝗼𝗿 𝗟𝗜𝗬𝗔"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "94765476552@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "94776860011@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["94765476552"] // Premium User
+global.premium = process.env.GL_VIP || ["94776860011"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
 
 //bot sett
 //________________________________________________________________________________________________________
-global.typemenu = process.env.MENU_DESIGN || 'v6' // menu type 'v1' => 'v8'
+global.typemenu = process.env.MENU_DESIGN || 'v1' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
-global.typereply = process.env.REPLY_TYPE || 'v3' // reply type 'v1' => 'v3'
+global.typereply = process.env.REPLY_TYPE || 'v1' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
 global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country code
 //________________________________________________________________________________________________________
